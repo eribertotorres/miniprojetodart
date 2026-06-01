@@ -220,12 +220,3 @@ class RelatorioTarefas {
 
   int get  quantidadeTotal => _tarefas.length;
 }
-
-//RF15 - Gerar relatório final
-
-
-
-
-
-
-
